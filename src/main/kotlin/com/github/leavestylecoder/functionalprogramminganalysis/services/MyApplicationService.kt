@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.leavestylecoder.functionalprogramminganalysis.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.leavestylecoder.functionalprogramminganalysis.MyBundle
 
 class MyApplicationService {
 
